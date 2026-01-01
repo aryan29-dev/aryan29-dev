@@ -5,6 +5,7 @@ I'm a **Computing and Financial Management (CFM)** student at the **University o
 Currently, I am working on projects & learning more about the financial world and what it brings!
 
 Check out my website: [aryansingh.app](https://aryansingh.app/)
+
 GitHub: [github.com/aryan29-dev](https://github.com/aryan29-dev)
 
 ![Profile views](https://komarev.com/ghpvc/?username=aryan29-dev&label=Profile%20views&color=1f6feb&style=flat)
