@@ -4,9 +4,7 @@ I'm a **Computing and Financial Management (CFM)** student at the **University o
 
 Currently, I am working on projects & learning more about the financial world and what it brings!
 
-Check out my personal website!
-
-[w]: aryansingh.app
+Check out my personal website: aryansingh.app
 
 Open to Summer 2026 Internships!
 
