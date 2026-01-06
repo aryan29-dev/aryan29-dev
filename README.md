@@ -2,9 +2,9 @@
 
 I'm a **Computing and Financial Management (CFM)** student at the **University of Waterloo**, interested in **software development (SWE), finance, and anything in between!** 📊💻
 
-Currently, I am working on projects & learning more about the financial world and what it brings!
+Currently, I am working on projects & learning more about the FinTech world and what it brings!
 
-Check out my website: [aryansingh.app](https://aryansingh.app/)
+Check out my personal website: [aryansingh.app](https://aryansingh.app/)
 
 GitHub: [github.com/aryan29-dev](https://github.com/aryan29-dev)
 
