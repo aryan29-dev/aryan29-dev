@@ -6,8 +6,6 @@ Currently, I am working on projects & learning more about the FinTech world and 
 
 Check out my personal website: [aryansingh.app](https://aryansingh.app/)
 
-GitHub: [github.com/aryan29-dev](https://github.com/aryan29-dev)
-
 ![Profile views](https://komarev.com/ghpvc/?username=aryan29-dev&label=Profile%20views&color=1f6feb&style=flat)
 
 ### Feel free to connect with me on Linkedin:
