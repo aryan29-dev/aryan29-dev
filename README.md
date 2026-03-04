@@ -41,7 +41,7 @@ Check out my personal website: [aryansingh.app](https://aryansingh.app/)
 
 ---
 
-### Developer Tools:
+### Developer Tools & Environments:
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
