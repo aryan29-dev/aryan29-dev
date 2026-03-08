@@ -1,7 +1,7 @@
 ## Hi there, I'm Aryan! 👋
 I'm a **Computing and Financial Management (CFM)** student at the **University of Waterloo**, interested in **software development (SWE), finance, and anything in between!** 📊💻
 
-Currently building fintech projects and exploring the intersection of markets and technology!
+Currently building and shipping FinTech projects and exploring the intersection of markets and technology!
 
 Check out my personal website: [aryansingh.app](https://aryansingh.app/)
 
