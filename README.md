@@ -1,8 +1,8 @@
-## Hi there, I'm Aryan 👋
+# Hi, I'm Aryan 👋
 
-I'm a **Computing and Financial Management (CFM)** student at the **University of Waterloo**, working at the intersection of **finance, data analytics, and software**. 📊💻
+I'm a **Computing and Financial Management (CFM)** student at the **University of Waterloo**, working at the intersection of **finance, data analytics, and software development**.
 
-Most recently an **Internal Auditor** at the Canadian National Exhibition and a **Data Analyst** at Focus on Nature. Currently building and shipping FinTech projects.
+Most recently, I worked as an **Internal Auditor** at the Canadian National Exhibition and a **Data Analyst** at Focus on Nature. I also build finance and analytics projects that combine financial concepts with programming and data.
 
 📄 [Portfolio](https://aryansingh.app/) · 💼 [LinkedIn](https://linkedin.com/in/aryan-singh29)
 
@@ -10,24 +10,26 @@ Most recently an **Internal Auditor** at the Canadian National Exhibition and a 
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Live |
-|---|---|---|
-| [Robo-Advising Portfolio Optimizer](https://github.com/aryan29-dev/Robo-Advising-Challenge) | Constructs a $1M CAD portfolio tracking the S&P 500 and TSX Composite, net of FX and transaction costs | — |
-| [Market Stress & Crisis Simulator](https://github.com/aryan29-dev/Market-Crisis-Simulator) | Replays the 2008 crisis, COVID-19, and the 2022 rate shock against a custom portfolio to measure drawdown and recovery | [Demo](https://market-crisis-simulator.vercel.app) |
-| [EPS Drift Scanner](https://github.com/aryan29-dev/EPS-Drift-Scanner) | Compares consensus Wall Street EPS estimates against reported actuals, with a scikit-learn anomaly model | [Demo](https://eps-drift-scanner.vercel.app) |
-| [Equity Trend Analyzer](https://github.com/aryan29-dev/Equity-Trend-Analyzer) | Computes drawdown, volatility, and RSI signals across 50+ equities | [Demo](https://equitytrendanalyzer.streamlit.app/) |
+| Project | What It Does | Live |
+| --- | --- | --- |
+| [Robo-Advising Portfolio Optimizer](https://github.com/aryan29-dev/Robo-Advising-Challenge) | Constructs a $1M CAD portfolio benchmarked against the S&P 500 and TSX Composite while accounting for portfolio constraints, FX, and transaction fees | — |
+| [Market Stress & Crisis Simulator](https://github.com/aryan29-dev/Market-Crisis-Simulator) | Stress-tests custom portfolios across the 2008 financial crisis, COVID-19 crash, and 2022 rate shock to analyze drawdown, recovery time, and risk-adjusted performance | [Demo](https://market-crisis-simulator.vercel.app) |
+| [EPS Drift Scanner](https://github.com/aryan29-dev/EPS-Drift-Scanner) | Compares reported EPS with consensus analyst estimates and uses scikit-learn anomaly detection to identify unusual earnings surprises | [Demo](https://eps-drift-scanner.vercel.app) |
+| [Equity Trend Analyzer](https://github.com/aryan29-dev/Equity-Trend-Analyzer) | Analyzes equity price trends using linear regression, moving averages, RSI, and key risk and return metrics | [Demo](https://equitytrendanalyzer.streamlit.app/) |
 
 ---
 
 ## 🛠 Technical Skills
 
-**Financial Analysis**
+**Finance & Analytics**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 **Languages**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -36,7 +38,8 @@ Most recently an **Internal Auditor** at the Canadian National Exhibition and a 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-**Data & ML**
+**Data & Machine Learning**
+
 <p align="center">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -45,6 +48,7 @@ Most recently an **Internal Auditor** at the Canadian National Exhibition and a 
 </p>
 
 **Frameworks & Tools**
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
